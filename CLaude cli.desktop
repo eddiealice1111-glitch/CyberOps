@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CLaude cli
+Comment=CLAUDE CLI
+Exec=sudo  claude
+Icon=face-glasses
+Path=/home/eddie/Desktop/Claude/
+Terminal=false
+StartupNotify=false
+GenericName=launch claude

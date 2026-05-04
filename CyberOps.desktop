@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CyberOps Dashboard
+Comment=Pentesting & Forensics Dashboard with AI
+Icon=/home/eddie/.local/share/icons/cyberops.svg
+Exec=x-terminal-emulator -e bash -c '/home/eddie/cyberops/start.sh; exec bash'
+Terminal=false
+Categories=Security;Network;System;
+Keywords=pentest;security;hacking;nmap;metasploit;forensics;
+StartupNotify=true
